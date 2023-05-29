@@ -19,7 +19,7 @@
 #
 ##############################################################################
 from openerp.osv import fields, orm
-import openerp.addons.decimal_precision as dp
+import decimal_precision as dp
 
 
 class PurchaseOrderLine(orm.Model):

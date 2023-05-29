@@ -21,7 +21,7 @@
 
 from __future__ import division
 from openerp.osv import fields, orm
-import openerp.addons.decimal_precision as dp
+import decimal_precision as dp
 from openerp.tools.translate import _
 
 

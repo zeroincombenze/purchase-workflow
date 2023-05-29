@@ -25,7 +25,7 @@ from openerp.osv import orm, fields
 from openerp.osv.orm import except_orm
 from openerp.tools import DEFAULT_SERVER_DATE_FORMAT
 from openerp.tools.translate import _
-import openerp.addons.decimal_precision as dp
+import decimal_precision as dp
 
 AGR_PO_STATE = ('confirmed', 'approved',
                 'done', 'except_picking', 'except_invoice')
