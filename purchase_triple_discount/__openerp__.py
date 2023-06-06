@@ -21,5 +21,5 @@
     'demo': [
         'demo/purchase_order.xml',
     ],
-    'installable': True,
+    'installable': False,
 }

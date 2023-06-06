@@ -14,6 +14,6 @@
         'purchase_supplier_rounding_method',
         'account_invoice_triple_discount',
     ],
-    'installable': True,
+    'installable': False,
     'auto_install': True,
 }
